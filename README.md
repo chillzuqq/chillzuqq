@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chillzuqq
 - 👀 I’m interested in web programming and machine learning
 - 🌱 I’m currently learning codeigniter 4
-- 📫 How to reach me on my insta @7zuqq
+- 📫 How to reach me on my insta @chilzuqq
 
 <!---
 chillzuqq/chillzuqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
