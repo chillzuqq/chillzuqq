@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chillzuqq
-- 👀 I’m interested in web programming and machine learning
+- 👀 I’m experienced in web programming and machine learning
 - 🌱 I’m currently learning deep learning and computer vision
 - 🖥️ I have interests in IoT too!
 - 📫 How to reach me on my insta @chilzuqq
